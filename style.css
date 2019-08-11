@@ -1,0 +1,54 @@
+body {
+    background-color: #DDDDDD
+}
+
+#headline {
+    margin: 50px 0;
+    text-align: center;
+}
+
+ul {
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+}
+
+li {
+    margin: 16px 0;
+}
+
+h1 {
+    text-align: center;
+}
+
+h1 {
+    font-style: monospace;
+    font-size: 50px
+}
+
+h3 {
+    text-align: center
+}
+
+img {
+    height: 500px;
+    width: 1000px;
+    display: block;
+    margin: 1px auto;
+}
+
+h2 {
+    text-align: center;
+}
+
+blockquote {
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+}
+
+h4 {
+    text-align: center;
+}
